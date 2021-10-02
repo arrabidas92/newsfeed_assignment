@@ -18,4 +18,3 @@ decode the data.
 2. App should only support vertical orientation.
 3. Use UIKit and MVVM architecture.
 4. Display loading indicator for async tasks.
-### Submission
